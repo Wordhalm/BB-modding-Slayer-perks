@@ -19,7 +19,7 @@ The probability of earning a perk upon slaying varies between 3% to 7% based on 
 ## Installation:
 
 1. Make sure you have the **BB Legends Mod** installed.
-2. Download and extract the `Word's Slayer Perks` mod to your mod directory.
+2. Download and extract the `Word's Slayer Perks.zip` to your mod directory.
 3. Start slaying and earning perks!
 
 ## Known Issues:
